@@ -400,9 +400,11 @@
     {"key":"Gitcafe", "name": "纸条┃🍭", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json" },
 		{"key":"找資源", "name":"資源┃🍭", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json$$$user$$$pass" },
     {"key":"UP云搜","name":"云搜UP┃🍭","type":3,"api":"csp_UpYun","timeout":30, "ext":"./lib/tokenm.json"}, 
+    {"key":"混合盘","name":"混合┃🍭","type":3,"api":"csp_HunHePan","timeout":30, "ext":"./lib/tokenm.json"},
+    {"key":"PikaSo","name":"皮卡┃🍭","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null"},
     {
       "key": "爱盘搜",
-      "name": "爱盘┃🍭",
+      "name": "夸克AP┃🍭",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/aipanso.js",
@@ -410,12 +412,11 @@
       "changeable": 0,
       "timeout": 60
     },
-    {"key":"混合盘","name":"混合┃🍭","type":3,"api":"csp_HunHePan","timeout":30, "ext":"./lib/tokenm.json"},
     {"key":"Funletu","name":"夸克QP┃🍭","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
-		{"key":"QuarkPanso","name":"夸克PS┃🍭","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},	
-  {
+    {"key":"QuarkPanso","name":"夸克PS┃🍭","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},	
+   {
       "key": "路飞磁力",
-      "name": "路飞┃🍭",
+      "name": "磁力LF┃🍭",
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -425,7 +426,7 @@
       "ext": "",
       "timeout": 60
     },
- 
+
 
     {
       "key": "cc1",
@@ -456,7 +457,7 @@
     },
     {
       "key": "cc4",
-      "name": "01.11维护更新🍁🍀",
+      "name": "01.12维护更新🍁🍀",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
