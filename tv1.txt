@@ -196,7 +196,11 @@
       },
       "api": "csp_Wobg",
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
+<<<<<<< HEAD
     }, 
+=======
+    },
+>>>>>>> 207134a6b9109713dffae4a1d0a2625e548fd209
     {
       "key":"影视车",
       "name":"阿狸┃YS",
@@ -309,6 +313,7 @@
     },
     {"key":"Ppxzy","name":"夸克┃PP","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"},
 		{"key":"Libvio","name":"夸克┃LB","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.libvio.pro$$$null"},
+<<<<<<< HEAD
     {
       "key": "csp_appys_影探",
       "name": "自营┃YT",
@@ -319,6 +324,9 @@
       "filterable": 1,
       "ext": "http://vpp.lyyytv.cn/api.php/app/"
     },
+=======
+    {"key":"YydsVip","name":"自营┃YY","type":3,"api":"csp_YydsVip", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$http://yydsvip.cn$$$null$$$1"},
+>>>>>>> 207134a6b9109713dffae4a1d0a2625e548fd209
     {"key":"开心HK影视","name":"自营┃TT","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心HK影视.json"},
     {"key":"开心影视","name":"自营┃KX","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json"},
     {
@@ -329,12 +337,41 @@
             "searchable": 1,
             "changeable": 0
         },
+<<<<<<< HEAD
 
    
      {"key":"drpy_js_奇珍异兽","name":"爱爱┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/奇珍异兽.js"},
      {"key":"drpy_js_优酷","name":"优优┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/优酷.js"},
      {"key":"drpy_js_腾云驾雾","name":"腾腾┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/腾云驾雾.js"},
      {"key":"drpy_js_百忙无果","name":"芒芒┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/百忙无果.js"}, 
+=======
+ 
+    {
+      "key": "4KHDR网盘",
+      "name": "磁力┃SK",
+      "type": 3,
+      "api": "csp_FourKHDR",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./lib/PG推送.json$$$./lib/4khdr.txt$$$1",
+      "timeout": 60
+    },
+    {
+      "key": "xb6v磁力",
+      "name": "磁力┃LV",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./lib/PG推送.json$$$http://www.xb6v.com$$$null$$$1",
+      "timeout": 60
+    },
+
+>>>>>>> 207134a6b9109713dffae4a1d0a2625e548fd209
       {
       "key": "sohu",
       "name": "搜搜┃(官)",
@@ -344,7 +381,15 @@
       "quickSearch": 1,
       "playUrl": "json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
       }, 
+<<<<<<< HEAD
      {"key":"drpy_js_菜狗","name":"狗狗┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/菜狗.js"},   
+=======
+     {"key":"drpy_js_菜狗","name":"狗狗┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/菜狗.js"},    
+     {"key":"drpy_js_奇珍异兽","name":"爱爱┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/奇珍异兽.js"},
+     {"key":"drpy_js_优酷","name":"优优┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/优酷.js"},
+     {"key":"drpy_js_腾云驾雾","name":"腾腾┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/腾云驾雾.js"},
+     {"key":"drpy_js_百忙无果","name":"芒芒┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/百忙无果.js"}, 
+>>>>>>> 207134a6b9109713dffae4a1d0a2625e548fd209
      {"key":"drpy_js_360影视","name":"360┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/360影视.js"},
       {
       "key": "AliShare",
@@ -417,17 +462,30 @@
   
     {"key":"Panta","name":"盘TA┃🍭","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"},
 		{"key":"DaPanSo","name":"大盘┃🍭","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://dapanso.com$$$null"},
+<<<<<<< HEAD
     {
+=======
+		{
+>>>>>>> 207134a6b9109713dffae4a1d0a2625e548fd209
       "key": "阿里云集合",
       "name": "合集┃🍭",
       "type": 3,
       "api": "csp_阿里云集合",
+<<<<<<< HEAD
       "jar": "./jar/阿里合集.jar",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext":"./lib/tokenm.json"
     },     
+=======
+      "jar": "./真心1215.jar",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": "./token"
+    },
+>>>>>>> 207134a6b9109713dffae4a1d0a2625e548fd209
     {"key":"易搜","name":"易搜┃🍭","type":3,"api":"csp_YiSo","timeout":30, "ext":"./lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"},
 		{"key":"YunSo","name":"云搜┃🍭","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
     {"key":"盘搜","name":"盘搜┃🍭","type":3,"api":"csp_PanSou","timeout":30, "ext":"./lib/tokenm.json"},
